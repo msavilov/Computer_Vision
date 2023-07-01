@@ -15,11 +15,12 @@
 
 ### Описание
 
-Учебные проекты курса "Обработка естественного языка" профессии Data Science от Нетология.
+Учебные проекты курса "Компьютерное зрение" профессии Data Science от Нетология.
 
 ### Технологии
 
 ![](https://img.shields.io/badge/-Python--3.11-blue)
+![](https://img.shields.io/badge/OpenCV-blue)
 ![](https://img.shields.io/badge/scikit--learn-blue)
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
@@ -27,19 +28,18 @@
 
 ## Проекты
 
-  [1.Проект_1](#)
+  [1.Segmentation_and_detection](#1_Segmentation_and_detection)
   
   [2.Проект_2](#)
   
   [3.Проект_3](#)
   
   
-### Проект_1
-![](https://img.shields.io/badge/Project%20status-In%20progress-green)
+### 1_Segmentation_and_detection
   
-  Описание
+  Построение классификатора на признаках, полученных в результате предобработки изображений с помощью гистограммы градиентов (HOG) и PCA преобразования.
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Computer_Vision/blob/main/1_Segmentation_and_detection/segmentation_and_detection.ipynb)
   
 ### Проект_2
 ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
