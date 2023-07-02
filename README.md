@@ -39,7 +39,7 @@
   
   Построение классификатора на признаках, полученных в результате предобработки изображений с помощью гистограммы градиентов (HOG) и PCA преобразования.
 
-  [Решение](https://github.com/msavilov/Computer_Vision/blob/main/1_Segmentation_and_detection/segmentation_and_detection.ipynb)
+  [Решение](https://github.com/msavilov/Computer_Vision/blob/main/1_Classification/classification.ipynb)
   
 ### Проект_2
 ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
