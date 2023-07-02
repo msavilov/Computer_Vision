@@ -28,18 +28,18 @@
 
 ## Проекты
 
-  [1.Segmentation_and_detection](#1_Segmentation_and_detection)
+  [1.Classification](#1_Classification)
   
   [2.Проект_2](#)
   
-  [3.Проект_3](#)
+  [3.Segmentation_and_detection](#segmentation_and_detection)
   
   
-### 1_Segmentation_and_detection
+### 1_Classification
   
   Построение классификатора на признаках, полученных в результате предобработки изображений с помощью гистограммы градиентов (HOG) и PCA преобразования.
 
-  [Решение](https://github.com/msavilov/Computer_Vision/blob/main/1_Segmentation_and_detection/segmentation_and_detection.ipynb)
+  [Решение](https://github.com/msavilov/Computer_Vision/blob/main/1_Classification/classification.ipynb)
   
 ### Проект_2
 ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
@@ -48,7 +48,7 @@
 
   [Решение]()
   
-### Проект_3
+### Segmentation_and_detection
 ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
   
   Описание
