@@ -30,7 +30,7 @@
 
   [1.Classification](#1_Classification)
   
-  [2.Проект_2](#)
+  [2.Convolutional_neural_network](#convolutional_neural_network)
   
   [3.Segmentation_and_detection](#segmentation_and_detection)
   
@@ -41,12 +41,12 @@
 
   [Решение](https://github.com/msavilov/Computer_Vision/blob/main/1_Classification/classification.ipynb)
   
-### Проект_2
-![](https://img.shields.io/badge/Project%20status-In%20progress-green)
+### Convolutional_neural_network
   
-  Описание
+  Обучение модель классификации изображение на 2 класса. Исходные данные и валидация решения на Kaggle в рамках контеста [Cats vs Dogs](https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition).
+  Модель должна определить является ли объект на изображении собакой.
 
-  [Решение]()
+  [Решение](https://github.com/msavilov/Computer_Vision/blob/main/2_Convolutional_neural_network/convolutional_neural_network.ipynb)
   
 ### Segmentation_and_detection
 ![](https://img.shields.io/badge/Project%20status-In%20progress-green)
